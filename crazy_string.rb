@@ -1,4 +1,4 @@
-# write your method here
+hellofriendsswapcased
 
 def crazy_strings("Hello","Friends")
 
